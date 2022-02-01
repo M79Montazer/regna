@@ -18,7 +18,7 @@ namespace Regna
             {
 
                 //CoreService.Regna();
-                //khello
+                //khello k
                 var db = new Context();
 
 
