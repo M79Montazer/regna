@@ -20,6 +20,7 @@ namespace Regna
                 //CoreService.Regna();
                 var db = new Context();
 
+
                 //var players = db.Users.Where(a => true).Take(2).ToList();
                 //MatchService.StartGame(players[0].Id, players[1].Id);
                 //var options = new List<List<string>>();
